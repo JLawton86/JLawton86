@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JLawton86
+- 👀 I’m interested in game design, web design, and computer science
+- 🌱 I’m currently learning C++
+- 📫 How to reach me jjlawton86@gmail.com
